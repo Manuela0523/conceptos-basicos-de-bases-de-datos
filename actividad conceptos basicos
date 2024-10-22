@@ -1,0 +1,47 @@
+Actividad Conceptos Básicos de Bases de Datos  
+Octubre 21 de 2024  
+ 
+Debes subir la solución a este taller a tu Github, creando una carpeta que se llame Introducción a las bases de datos y si no tienes Github, envíalo al correo 
+docente4@pio.edu.co con el asunto Conceptos básicos de bases de datos y  tu nombre completo 
+ 
+Hora de entrega: 7:30 p.m  
+ 
+Objetivo: 
+El objetivo de este taller es comprender los hitos más importantes en la historia de las bases de datos, su evolución tecnológica y el impacto de estas transformaciones en el manejo de la información. 
+ 
+Instrucciones: 
+Responde las siguientes preguntas basándote en lo aprendido en clase o investigando sobre la historia de las bases de datos. Recuerda justificar tus respuestas y brindar ejemplos donde sea necesario. 
+ 
+Parte 1: Origen y Primeras Bases de Datos 
+1.	¿Qué es una base de datos y cuál es su propósito principal? 
+o	Definición y función principal. o 	Ejemplos históricos de la gestión de información antes de las bases de datos electrónicas. 
+
+R/ Podríamos decir que una base de datos se asemeja a una gran biblioteca digital que almacena información en vez de libros. Las bases de datos son una herramienta sumamente eficiente para la gestión y aprovechamiento de la información a nivel global. 
+
+Las bases de datos se utilizan para gestionar clientes, productos, tiendas, llevar un registro civil, un catastro, almacenar registro de estudiantes, empleados. 
+
+Antes del mundo digital podíamos encontrar las bases de datos en formatos como, libros manuscritos donde se almacenaba la información, tablillas, etc.
+ 
+2.	¿Cómo se almacenaba la información antes del desarrollo de las primeras bases de datos electrónicas? 
+o	Explica los métodos de almacenamiento en papel y tarjetas perforadas.
+•	¿Cuáles eran las principales limitaciones de estos métodos? 
+
+R/ anteriormente la información era almacenada en libros escritos a mano y tarjetas perforadas las cuales funcionaba a través de perforaciones que almacenaban un valor numérico, 
+la capacidad de este método era limitada ya que los manuscritos ocupaban mucho espacio, no era faci encontrar informacon especifica por la cantidad de datos, podian haber errores en la perforacion
+de las targetas,el proceso de creacion de grandes cantidades de targetas era my lento. 
+
+3.	Describe el papel de IBM en el desarrollo de las primeras bases de datos electrónicas. o 	Menciona el impacto de los sistemas como IMS (Information Management System).
+
+4.	¿Qué es un sistema de bases de datos jerárquico? 
+o	Explica su estructura y cómo se organizan los datos. 
+o	¿Qué ventajas y desventajas presentaba este modelo? 
+ 
+Parte 2: Evolución hacia los Modelos Relacionales 
+5.	¿Qué innovaciones trajo el modelo relacional propuesto por Edgar F. Codd en 1970? 
+o	Explica en qué consiste este modelo. o 	¿Qué beneficios ofrecía en comparación con los modelos jerárquicos o de red? 
+6.	¿Qué es SQL y por qué fue clave en la adopción del modelo relacional? 
+o	Explica brevemente el lenguaje SQL. o 	¿Qué características de SQL lo hicieron fundamental para el manejo de bases de datos? 
+7.	Compara las bases de datos relacionales con los modelos jerárquicos y de red. 
+o	En términos de flexibilidad, facilidad de uso y rendimiento, ¿qué diferencias encuentras? 
+ 
+ 
